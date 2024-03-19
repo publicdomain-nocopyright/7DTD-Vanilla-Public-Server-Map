@@ -1,0 +1,1 @@
+# 7DTD-Vanilla-Public-Server-Map
