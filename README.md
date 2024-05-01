@@ -15,4 +15,5 @@ This is the last with the old folder structure.
 https://github.com/publicdomain-nocopyright/7DTD-Vanilla-Public-Server-Map/releases/tag/2024-04-20_12-00-01  
 
 ### Latest release for Windows 11 and Windows 10
+Converts old linux releases to Windows
 https://github.com/publicdomain-nocopyright/7DTD-Vanilla-Public-Server-Map/releases/tag/2024-04-26_07-37-53
