@@ -17,3 +17,7 @@ https://github.com/publicdomain-nocopyright/7DTD-Vanilla-Public-Server-Map/relea
 ### Latest release for Windows 11 and Windows 10
 Converts old linux backup releases to Windows  
 https://github.com/publicdomain-nocopyright/7DTD-Vanilla-Public-Server-Map/releases/tag/2024-04-26_07-37-53
+
+
+Note: If folder changes remember to reschedule backup, this way it will update the map folder path on the drive.
+`vanilla_server\Backups\Schedule_backup_every_3_hours.cmd`
