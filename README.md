@@ -20,4 +20,7 @@ https://github.com/publicdomain-nocopyright/7DTD-Vanilla-Public-Server-Map/relea
 
 
 Note: If folder changes remember to reschedule backup, this way it will update the map folder path on the drive.
-`vanilla_server\Backups\Schedule_backup_every_3_hours.cmd`
+`vanilla_server\Backups\Schedule_backup_every_3_hours.cmd`  
+
+Note: Set `vanilla_server\Vanilla_Server\servername.txt` file content to `disabled` to disable the generated random server name   
+that is used to prevent multiple servers from having the same name in the in-game server browser.  
